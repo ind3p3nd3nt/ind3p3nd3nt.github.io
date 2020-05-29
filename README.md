@@ -1,19 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to my Development Page
 
-You can use the [editor on GitHub](https://github.com/independentcod/independentcod.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# My most popular repositories: 
+[Link](https://github.com/independentcod/CCFinder)
+[Link](https://github.com/independentcod/PerlIRCSSL_VNCbypass)
+[Link](https://github.com/independentcod/rdp-takeown-icacls)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Website I made for an aspiring model I love a lot.
+[Link](https://mollyeskam.cleansite.us)
 
 ```markdown
-Syntax highlighted code block
+Follow me on my Social Medias:
 
-# Header 1
+# Twitter
+[Link](https://)
 ## Header 2
+[Link](https://
 ### Header 3
+[Link](https://
+[Link](https://
+[Link](https://
+[Link](https://
+
 
 - Bulleted
 - List
@@ -23,7 +32,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+ and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
