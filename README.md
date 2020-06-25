@@ -10,7 +10,7 @@
 ## Website I made for an aspiring model I love a lot.
 ### [@mollyeskam](https://www.mollyeskam.net)
 ### [Molly Eskam Facebook Page](https://www.facebook.com/Molly-Eskam-111990807201934)
-### [Molly Eskam Website Clone](https://independentcod.github.io/mollyweb)
+### [Molly Eskam Website Clone](https://github.com/independentcod/mollyweb)
 
 ## Follow me on my Social Medias:
 ### [Discord](https://discord.gg/gGcWeas)
