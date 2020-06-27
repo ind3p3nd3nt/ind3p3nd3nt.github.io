@@ -4,7 +4,9 @@
 ### [Perl IRC Bot(Massive VNC bypass auth Exploit scanner)](https://github.com/independentcod/PerlIRCSSL_VNCbypass)
 ### [CCFinder (An Universal language credit card finder)](https://github.com/independentcod/CCFinder)
 ### [SSH Takeover (Spawn a SSH server and add yourself admin)](https://github.com/independentcod/SSHTakeover)
+### [Chiaki PS4 Remote Play Client Auto Compiler (BASH)](https://github.com/independentcod/Chiaki-AutoCompile)
 ### [rdp takeown icacls (Windows Security Tool)](https://github.com/independentcod/rdp-takeown-icacls)
+
 
 
 
