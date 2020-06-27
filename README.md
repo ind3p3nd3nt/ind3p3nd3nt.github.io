@@ -1,10 +1,10 @@
 # Welcome to my Development Page
 
 ## My most popular repositories:
-### [Perl IRC Bot](https://github.com/independentcod/PerlIRCSSL_VNCbypass)
+### [Perl IRC Bot(Massive VNC bypass auth Exploit scanner)](https://github.com/independentcod/PerlIRCSSL_VNCbypass)
 ### [CCFinder (An Universal language credit card finder)](https://github.com/independentcod/CCFinder)
 ### [SSH Takeover (Spawn a SSH server and add yourself admin)](https://github.com/independentcod/SSHTakeover)
-### [rdp takeown icacls](https://github.com/independentcod/rdp-takeown-icacls)
+### [rdp takeown icacls (Windows Security Tool)](https://github.com/independentcod/rdp-takeown-icacls)
 
 
 
