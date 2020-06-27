@@ -1,9 +1,10 @@
 # Welcome to my Development Page
 
-## My most popular repositories: 
-### [Credit Card Finder](https://github.com/independentcod/CCFinder)
+## My most popular repositories:
 ### [Perl IRC Bot](https://github.com/independentcod/PerlIRCSSL_VNCbypass)
-### [Anti Windows Ownage](https://github.com/independentcod/rdp-takeown-icacls)
+### [CCFinder (An Universal language credit card finder)](https://github.com/independentcod/CCFinder)
+### [SSH Takeover (Spawn a SSH server and add yourself admin)](https://github.com/independentcod/SSHTakeover)
+### [rdp takeown icacls](https://github.com/independentcod/rdp-takeown-icacls)
 
 
 
