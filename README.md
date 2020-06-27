@@ -6,6 +6,7 @@
 ### [SSH Takeover (Spawn a SSH server and add yourself admin)](https://github.com/independentcod/SSHTakeover)
 ### [Chiaki PS4 Remote Play Client Auto Compiler (BASH)](https://github.com/independentcod/Chiaki-AutoCompile)
 ### [rdp takeown icacls (Windows Security Tool)](https://github.com/independentcod/rdp-takeown-icacls)
+### [WinQEMu (Install Windows 10 Server Evaluation Version 180 Days with QEMu emulator & KVM + SPICE accel (BASH))](https://github.com/independentcod/WinQemu)
 
 
 
